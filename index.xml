@@ -6,8 +6,19 @@
     <description>Recent content on Naujas tinklalapis</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 17:12:45 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 18:22:26 +0200</lastBuildDate>
     <atom:link href="https://andr3yqq.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apie mane</title>
+      <link>https://andr3yqq.github.io/apie/</link>
+      <pubDate>Wed, 18 Nov 2026 18:22:26 +0200</pubDate>
+      <guid>https://andr3yqq.github.io/apie/</guid>
+      <description>&lt;p&gt;Apie mane puslapis. text text text text&lt;/p&gt;
+&lt;h2 id=&#34;kontaktai&#34;&gt;kontaktai&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/andr3yqq&#34;&gt;andr3yqq&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Pirmas Irasas</title>
       <link>https://andr3yqq.github.io/posts/pirmas-irasas/</link>
