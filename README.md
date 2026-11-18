@@ -1,1 +1,0 @@
-# andr3yqq.github.io
